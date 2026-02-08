@@ -1,2 +1,2 @@
 # Reimsa
-Reimbursement Assistant for enterprise.
+Reimbursement Assistant Web Application for enterprise.
